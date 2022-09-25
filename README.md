@@ -1,2 +1,2 @@
 # prework-study-guide
-Coding bootcamp prework study guide
+coding bootcamp prework study guide
